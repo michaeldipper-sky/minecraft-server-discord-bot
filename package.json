@@ -1,0 +1,20 @@
+{
+  "name": "minecraftserverdiscordbot",
+  "version": "1.0.0",
+  "description": "A Discord Bot for reporting Minecraft Server Status",
+  "main": "bot.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Michael Dipper",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jest": "^23.8.0",
+    "jest": "^25.1.0",
+    "winston": "^3.2.1"
+  }
+}
